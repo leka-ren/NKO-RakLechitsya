@@ -50,7 +50,3 @@ $ npm run start
 $ npm run generate
 ```
 ____
-
-
-
-# NKO-RakLechitsya
